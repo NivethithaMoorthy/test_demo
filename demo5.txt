@@ -1,1 +1,16 @@
 Sample test file for practise
+
+
+
+git pull
+git status
+git branch (new branch/existing branch)
+git checkout master/origin/main
+git pull
+git checkout branchname
+git rebase master/origin/main
+//do all necessary changes in code
+git status
+git add .
+git commit
+git push origin branchname
