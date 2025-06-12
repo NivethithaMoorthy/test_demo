@@ -1,7 +1,5 @@
 Sample test file for practise
 
-
-
 git pull
 git status
 git branch (new branch/existing branch)
